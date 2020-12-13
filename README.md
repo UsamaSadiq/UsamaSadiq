@@ -26,7 +26,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 989 Contributions in the Year 2020
+> 🏆 1,007 Contributions in the Year 2020
  > 
 > 📦 27 Bytes Used in Github's Storage 
  > 
@@ -62,8 +62,6 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Karachi
-
 ```
 
 
