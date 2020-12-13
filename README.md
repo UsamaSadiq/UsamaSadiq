@@ -16,6 +16,63 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,000 Contributions in the Year 2020
+ > 
+> 📦 13 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+4 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    123 commits    █████████████░░░░░░░░░░░░   53.95% 
+🌃 Evening    60 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       50 commits     █████░░░░░░░░░░░░░░░░░░░░   21.93% 
+Tuesday      48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
+Thursday     38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       53 commits     █████░░░░░░░░░░░░░░░░░░░░   23.25% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <!--
