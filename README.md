@@ -3,7 +3,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=Usama Sadiq&show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
