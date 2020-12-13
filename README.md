@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&show_icons=true&hide=stars" />
+<img align="left" alt="Usama's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=Usama Sadiq&show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
 
 <!--
 **UsamaSadiq/UsamaSadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
