@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=Usama Sadiq&show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=Usama Sadiq&show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
+
+--- 
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25846](https://github.com/edx/edx-platform/pull/25846) in [edx/edx-platform](https://github.com/edx/edx-platform)
@@ -14,6 +16,8 @@
 9. 🎉 Merged PR [#501](https://github.com/edx/XBlock/pull/501) in [edx/XBlock](https://github.com/edx/XBlock)
 10. 🎉 Merged PR [#133](https://github.com/edx/xblock-utils/pull/133) in [edx/xblock-utils](https://github.com/edx/xblock-utils)
 <!--END_SECTION:activity-->
+
+--- 
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
@@ -74,7 +78,6 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
-
 <!--
 **UsamaSadiq/UsamaSadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
