@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=Usama Sadiq&show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My Stats&show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
 
 --- 
-
+### My Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25846](https://github.com/edx/edx-platform/pull/25846) in [edx/edx-platform](https://github.com/edx/edx-platform)
 2. ❌ Closed PR [#22](https://github.com/edx/django-pyfs/pull/22) in [edx/django-pyfs](https://github.com/edx/django-pyfs)
@@ -18,7 +18,7 @@
 <!--END_SECTION:activity-->
 
 --- 
-
+### My Github Info
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
