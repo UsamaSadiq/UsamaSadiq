@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi there, I am Usama Sadiq. 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
----
 
 This chart shows the languages I mostly work on in my personal projects that are hosted on Github.
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSadiq&langs_count=10&layout=compact" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSadiq&langs_count=10&&layout=compact" />
-
+<!---
+---
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsamaSadiq&repo=CodeChallenges)" /></a>
+--->
 --- 
 
 ### My Recent Activity
