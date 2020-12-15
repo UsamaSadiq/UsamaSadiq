@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-
+<!-- 
 ---
-
+# Enable it after creating personal code repos.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSadiq&langs_count=10&&layout=compact" />
-
+-->
 --- 
-
 ### My Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25870](https://github.com/edx/edx-platform/pull/25870) in [edx/edx-platform](https://github.com/edx/edx-platform)
