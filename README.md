@@ -20,15 +20,15 @@
 --- 
 ### My Github Info
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-231-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,007 Contributions in the Year 2020
+> 🏆 1,017 Contributions in the Year 2020
  > 
-> 📦 42 Bytes Used in Github's Storage 
+> 📦 43 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
