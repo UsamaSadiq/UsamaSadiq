@@ -5,11 +5,11 @@
 --- 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25846](https://github.com/edx/edx-platform/pull/25846) in [edx/edx-platform](https://github.com/edx/edx-platform)
-2. ❌ Closed PR [#22](https://github.com/edx/django-pyfs/pull/22) in [edx/django-pyfs](https://github.com/edx/django-pyfs)
-3. 💪 Opened PR [#22](https://github.com/edx/django-pyfs/pull/22) in [edx/django-pyfs](https://github.com/edx/django-pyfs)
-4. 💪 Opened PR [#25856](https://github.com/edx/edx-platform/pull/25856) in [edx/edx-platform](https://github.com/edx/edx-platform)
-5. ❌ Closed PR [#25855](https://github.com/edx/edx-platform/pull/25855) in [edx/edx-platform](https://github.com/edx/edx-platform)
+1. 🎉 Merged PR [#25870](https://github.com/edx/edx-platform/pull/25870) in [edx/edx-platform](https://github.com/edx/edx-platform)
+2. 🗣 Commented on [#25811](https://github.com/edx/edx-platform/issues/25811) in [edx/edx-platform](https://github.com/edx/edx-platform)
+3. 🗣 Commented on [#25811](https://github.com/edx/edx-platform/issues/25811) in [edx/edx-platform](https://github.com/edx/edx-platform)
+4. 🗣 Commented on [#25870](https://github.com/edx/edx-platform/issues/25870) in [edx/edx-platform](https://github.com/edx/edx-platform)
+5. 💪 Opened PR [#25870](https://github.com/edx/edx-platform/pull/25870) in [edx/edx-platform](https://github.com/edx/edx-platform)
 6. 💪 Opened PR [#25855](https://github.com/edx/edx-platform/pull/25855) in [edx/edx-platform](https://github.com/edx/edx-platform)
 7. ❌ Closed PR [#25838](https://github.com/edx/edx-platform/pull/25838) in [edx/edx-platform](https://github.com/edx/edx-platform)
 8. 🎉 Merged PR [#96](https://github.com/edx/edx-repo-health/pull/96) in [edx/edx-repo-health](https://github.com/edx/edx-repo-health)
