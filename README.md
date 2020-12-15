@@ -4,6 +4,7 @@
 
 
 This chart shows the languages I mostly work on in my personal projects that are hosted on Github.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSadiq&langs_count=10&layout=compact" />
 
 <!---
