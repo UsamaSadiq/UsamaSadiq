@@ -30,9 +30,9 @@ This chart shows the languages I mostly work on in my personal projects that are
 --- 
 ### My Github Info
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-307-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-315-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,13 +63,15 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Text                     1 hr 24 mins        ████████████████████░░░░░   83.1% 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
-reStructuredText         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Text                     1 hr 29 mins        ███████████░░░░░░░░░░░░░░   46.88% 
+Python                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+Other                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+INI                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62%
 
 🔥 Editors: 
-PyCharm                  1 hr 41 mins        █████████████████████████   100.0%
+PyCharm                  2 hrs 29 mins       ███████████████████░░░░░░   78.2% 
+VS Code                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.8%
 
 ```
 
