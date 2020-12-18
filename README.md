@@ -15,11 +15,11 @@ This chart shows the languages I mostly work on in my personal projects that are
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1090](https://github.com/edx/edx-enterprise/pull/1090) in [edx/edx-enterprise](https://github.com/edx/edx-enterprise)
-2. 🎉 Merged PR [#25890](https://github.com/edx/edx-platform/pull/25890) in [edx/edx-platform](https://github.com/edx/edx-platform)
-3. 🎉 Merged PR [#25870](https://github.com/edx/edx-platform/pull/25870) in [edx/edx-platform](https://github.com/edx/edx-platform)
-4. 🗣 Commented on [#25811](https://github.com/edx/edx-platform/issues/25811) in [edx/edx-platform](https://github.com/edx/edx-platform)
-5. 🗣 Commented on [#25811](https://github.com/edx/edx-platform/issues/25811) in [edx/edx-platform](https://github.com/edx/edx-platform)
+1. 🎉 Merged PR [#1](https://github.com/UsamaSadiq/CodeChallenges/pull/1) in [UsamaSadiq/CodeChallenges](https://github.com/UsamaSadiq/CodeChallenges)
+2. 💪 Opened PR [#1](https://github.com/UsamaSadiq/CodeChallenges/pull/1) in [UsamaSadiq/CodeChallenges](https://github.com/UsamaSadiq/CodeChallenges)
+3. 🗣 Commented on [#1091](https://github.com/edx/edx-enterprise/issues/1091) in [edx/edx-enterprise](https://github.com/edx/edx-enterprise)
+4. 🎉 Merged PR [#25901](https://github.com/edx/edx-platform/pull/25901) in [edx/edx-platform](https://github.com/edx/edx-platform)
+5. 💪 Opened PR [#1090](https://github.com/edx/edx-enterprise/pull/1090) in [edx/edx-enterprise](https://github.com/edx/edx-enterprise)
 6. 💪 Opened PR [#25855](https://github.com/edx/edx-platform/pull/25855) in [edx/edx-platform](https://github.com/edx/edx-platform)
 7. ❌ Closed PR [#25838](https://github.com/edx/edx-platform/pull/25838) in [edx/edx-platform](https://github.com/edx/edx-platform)
 8. 🎉 Merged PR [#96](https://github.com/edx/edx-repo-health/pull/96) in [edx/edx-repo-health](https://github.com/edx/edx-repo-health)
