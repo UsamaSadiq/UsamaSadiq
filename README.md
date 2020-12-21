@@ -32,8 +32,6 @@ This chart shows the languages I mostly work on in my personal projects that are
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-315-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -72,6 +70,13 @@ Markdown                 46 mins             █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  6 hrs 8 mins        █████████████░░░░░░░░░░░░   52.12% 
 PyCharm                  5 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.88%
+
+🐱‍💻 Projects: 
+CodeChallenges           5 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.71% 
+edx-enterprise           2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   23.14% 
+edx-platform             1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+django-user-tasks        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Unknown Project          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
 
 ```
 
