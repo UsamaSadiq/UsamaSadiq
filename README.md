@@ -15,11 +15,11 @@ This chart shows the languages I mostly work on in my personal projects that are
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/edx/event-routing-backends/pull/32) in [edx/event-routing-backends](https://github.com/edx/event-routing-backends)
-2. 🎉 Merged PR [#158](https://github.com/edx/edx-organizations/pull/158) in [edx/edx-organizations](https://github.com/edx/edx-organizations)
-3. 🎉 Merged PR [#431](https://github.com/edx/edx-e2e-tests/pull/431) in [edx/edx-e2e-tests](https://github.com/edx/edx-e2e-tests)
-4. 🎉 Merged PR [#25923](https://github.com/edx/edx-platform/pull/25923) in [edx/edx-platform](https://github.com/edx/edx-platform)
-5. 🎉 Merged PR [#97](https://github.com/edx/edx-repo-health/pull/97) in [edx/edx-repo-health](https://github.com/edx/edx-repo-health)
+1. 🎉 Merged PR [#70](https://github.com/edx/pytest-repo-health/pull/70) in [edx/pytest-repo-health](https://github.com/edx/pytest-repo-health)
+2. 💪 Opened PR [#70](https://github.com/edx/pytest-repo-health/pull/70) in [edx/pytest-repo-health](https://github.com/edx/pytest-repo-health)
+3. 🎉 Merged PR [#32](https://github.com/edx/event-routing-backends/pull/32) in [edx/event-routing-backends](https://github.com/edx/event-routing-backends)
+4. 🎉 Merged PR [#158](https://github.com/edx/edx-organizations/pull/158) in [edx/edx-organizations](https://github.com/edx/edx-organizations)
+5. 🎉 Merged PR [#431](https://github.com/edx/edx-e2e-tests/pull/431) in [edx/edx-e2e-tests](https://github.com/edx/edx-e2e-tests)
 6. 💪 Opened PR [#25855](https://github.com/edx/edx-platform/pull/25855) in [edx/edx-platform](https://github.com/edx/edx-platform)
 7. ❌ Closed PR [#25838](https://github.com/edx/edx-platform/pull/25838) in [edx/edx-platform](https://github.com/edx/edx-platform)
 8. 🎉 Merged PR [#96](https://github.com/edx/edx-repo-health/pull/96) in [edx/edx-repo-health](https://github.com/edx/edx-repo-health)
