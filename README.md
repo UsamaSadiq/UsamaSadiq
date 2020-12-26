@@ -12,20 +12,14 @@ This chart shows the languages I mostly work on in my personal projects that are
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsamaSadiq&repo=CodeChallenges)" /></a>
 --->
 --- 
+Hi folks !!!!!
 
-### My Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#25944](https://github.com/edx/edx-platform/pull/25944) in [edx/edx-platform](https://github.com/edx/edx-platform)
-2. ❌ Reopened PR [#161](https://github.com/edx/opaque-keys/pull/161) in [edx/opaque-keys](https://github.com/edx/opaque-keys)
-3. 🎉 Merged PR [#70](https://github.com/edx/pytest-repo-health/pull/70) in [edx/pytest-repo-health](https://github.com/edx/pytest-repo-health)
-4. 💪 Opened PR [#70](https://github.com/edx/pytest-repo-health/pull/70) in [edx/pytest-repo-health](https://github.com/edx/pytest-repo-health)
-5. 🎉 Merged PR [#32](https://github.com/edx/event-routing-backends/pull/32) in [edx/event-routing-backends](https://github.com/edx/event-routing-backends)
-6. 💪 Opened PR [#25855](https://github.com/edx/edx-platform/pull/25855) in [edx/edx-platform](https://github.com/edx/edx-platform)
-7. ❌ Closed PR [#25838](https://github.com/edx/edx-platform/pull/25838) in [edx/edx-platform](https://github.com/edx/edx-platform)
-8. 🎉 Merged PR [#96](https://github.com/edx/edx-repo-health/pull/96) in [edx/edx-repo-health](https://github.com/edx/edx-repo-health)
-9. 🎉 Merged PR [#501](https://github.com/edx/XBlock/pull/501) in [edx/XBlock](https://github.com/edx/XBlock)
-10. 🎉 Merged PR [#133](https://github.com/edx/xblock-utils/pull/133) in [edx/xblock-utils](https://github.com/edx/xblock-utils)
-<!--END_SECTION:activity-->
+I joined GitHub since **{{ ACCOUNT_AGE }}** years ago. Till this date, I have pushed a total of **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+I own **{{ REPOSITORIES }}** repositories in my account.
+
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 --- 
 ### My Github Info
