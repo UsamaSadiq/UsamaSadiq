@@ -11,19 +11,6 @@ jobs:
     name: Update README Profile
     steps:
       - uses: actions/checkout@v2
-      - name: Update GitHub stats
-        uses: teoxoy/profile-readme-stats@v1
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-      - name: Update README.md
-        run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add .
-          git commit -m "Update README"
-          git push
-          fi
       - name: Update README Waka stats
         uses: anmol098/waka-readme-stats@master
         with:
