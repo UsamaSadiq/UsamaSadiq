@@ -1,12 +1,12 @@
 ### Hi there, I am Usama Sadiq from Pakistan 🇵🇰. 👋
-##### I joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 
-💬 Ask me about **Python** 🐍 <!-- , Testing, Docker, Jenkins Automation, -->
+💬 Ask me about **Python** 🐍, **Django**. <!-- , Testing, Docker, Jenkins Automation, -->
 
+<!--  
 🗣 I love to talk about
   - Automating day-to-day stuff using Python
-  - **Urdu Literature** 📚, **Anime** 💻, **Manga** 📜, **Light Novels** 📜, **Comics** 📱. 
-
+  - **Urdu Literature** 📚, **Anime** 💻, **Manga** 📜, **Light Novels** 📜, **Comics** 📱.  
+-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
