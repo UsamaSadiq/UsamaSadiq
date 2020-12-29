@@ -17,7 +17,7 @@ This chart shows the languages I mostly work on in my personal projects that are
 --- 
 ### My Github Info
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-232-blue)
 
 **I'm an Early 🐤** 
 
