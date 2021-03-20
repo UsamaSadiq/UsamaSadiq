@@ -48,13 +48,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-edx-platform             58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
