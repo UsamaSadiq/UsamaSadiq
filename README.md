@@ -17,7 +17,7 @@ This chart shows the languages I mostly work on in my personal projects that are
 --- 
 ### My Github Info
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,7 +67,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 09/06/2021
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 <!--
 **UsamaSadiq/UsamaSadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
