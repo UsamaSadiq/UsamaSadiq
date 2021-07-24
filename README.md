@@ -48,13 +48,13 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LearningProjects         6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -67,7 +67,7 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 23/07/2021
+ Last Updated on 24/07/2021
 <!--END_SECTION:waka-->
 <!--
 **UsamaSadiq/UsamaSadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
