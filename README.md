@@ -48,17 +48,13 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               13 mins             █████████████░░░░░░░░░░░░   52.17% 
-HTML                     7 mins              ███████░░░░░░░░░░░░░░░░░░   28.75% 
-Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LearningProjects         24 mins             ███████████████████████░░   95.17% 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
+No Activity Tracked This Week
 
 ```
 
@@ -71,7 +67,7 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 <!--
 **UsamaSadiq/UsamaSadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
