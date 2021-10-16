@@ -1,11 +1,16 @@
-### Hi there, I am Usama Sadiq from Pakistan 🇵🇰. 👋
+### Hi there, I'm Usama Sadiq.
 
-💬 Ask me about **Python** 🐍, **Django**. <!-- , Testing, Docker, Jenkins Automation, -->
+- 🔭 I’m currently working for Arbisoft & edX.
+- 🌱 I’m currently learning AWS.
+- 💬 Ask me about Python, Django, Testing, Docker, Jenkins Automation or any tech related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a big fan of **Literature (Anime / Manga / Novels / Comics )**.  
 
 <!--  
+- 📫 How to reach me: [Linkedin - @mzulqarnain1](https://www.linkedin.com/in/mzulqarnain1/) 
 🗣 I love to talk about
   - Automating day-to-day stuff using Python
-  - **Urdu Literature** 📚, **Anime** 💻, **Manga** 📜, **Light Novels** 📜, **Comics** 📱.  
+  - 
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
