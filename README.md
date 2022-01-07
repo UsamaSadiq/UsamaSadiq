@@ -1,13 +1,13 @@
 ### Hi there, I'm Usama Sadiq.
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
 
 - 🔭 I’m currently working for Arbisoft & edX.
 - 🌱 I’m currently learning AWS.
