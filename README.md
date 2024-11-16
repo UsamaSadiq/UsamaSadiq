@@ -17,8 +17,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My GitHub Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66b9a224b64402e0528ef814?variant=dark&roadmaps=devops)](https://roadmap.sh)
-
 <!--  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSadiq&langs_count=5" />
 
