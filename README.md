@@ -14,17 +14,12 @@
 - 💬 Ask me about Python, Django, Testing, Docker, Jenkins Automation or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a big fan of **Literature (Anime / Manga / Novels / Comics )**.  
+- 📫 How to reach me: [Linkedin - @meharusama](https://www.linkedin.com/in/meharusama/) 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=UsamaSadiq&custom_title=My GitHub Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
 <!--  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSadiq&langs_count=5" />
-
-- 📫 How to reach me: [Linkedin - @mzulqarnain1](https://www.linkedin.com/in/mzulqarnain1/) 
 🗣 I love to talk about
   - Automating day-to-day stuff using Python
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
-[![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat-square&logo=serverless&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
 -->
-
