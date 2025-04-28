@@ -1,25 +1,17 @@
-### Hi there, I'm Usama Sadiq.
+### 🚀 About Me
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
-[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+Hi there, I’m Usama Sadiq, and I’ve spent the last six years building applications that scale, break, and scale again—nothing beats the thrill of wrangling complex systems into harmony.
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+These days, I’m thrilled to be powering up projects at Arbisoft & edX, where every feature launch feels like unlocking a new achievement. Seeing users enjoy my work puts a genuine smile on my face.
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/) 
+🌱 I’m on a quest to master AWS—sometimes it feels like taming a dragon, but I relish every fiery challenge. Learning new cloud tricks keeps me curious and energized.
 
-- 🔭 I’m currently working for Arbisoft & edX.
-- 🌱 I’m currently learning AWS.
-- 💬 Ask me about Python, Django, Testing, Docker, Jenkins Automation or any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a big fan of **Literature (Anime / Manga / Novels / Comics )**.  
+I’m always up for a tech chat—ask me about Python, Django, testing strategies, Docker container magic, or Jenkins/GitHub automation. 
+😄 Pronouns: He/His.
+⚡ Fun fact: When I’m not debugging servers, you’ll find me lost in Anime, Manga, Novels, or Comics—my personal escape into epic narratives!
+
+🛠️ Core Skills
+
+Proficient in Python/Django/DRF, JavaScript/HTML/CSS, PostgreSQL, and AWS & Docker. Experienced with CI/CD pipelines (GitHub Actions, Jenkins, GoCD, ArgoCD), configuration management (Ansible), task scheduling (Celery/Redis), observability (New Relic, Datadog, Splunk), and internationalization (Django i18n/l10n). Comfortable with Git, Linux, REST APIs, and JWT-based authentication.
+
 - 📫 How to reach me: [Linkedin - @meharusama](https://www.linkedin.com/in/meharusama/) 
-
-
-<!--  
-🗣 I love to talk about
-  - Automating day-to-day stuff using Python
-
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/usamasadiq/)](https://github.com/usamasadiq/)
--->
