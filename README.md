@@ -1,17 +1,32 @@
-### 🚀 About Me
+Hi, 
 
-Hi there, I’m Usama Sadiq, and I’ve spent the last six years building applications that scale, break, and scale again—nothing beats the thrill of wrangling complex systems into harmony.
+I'm [**Usama Sadiq**](https://usamasadiq.us), Principal Software Engineer (@[arbisoft](https://arbisoft.com)), Open edX Core Contributor (@[openedx](https://openedx.com)), and hands-on Python/Django + DevOps specialist with over 6 years of experience in building and scaling modern web infrastructure.
 
-These days, I’m thrilled to be powering up projects at Arbisoft & edX, where every feature launch feels like unlocking a new achievement. Seeing users enjoy my work puts a genuine smile on my face.
+I bring a unique combination of backend engineering expertise, cloud-native DevOps practices, and open-source leadership to every initiative I work on.
 
-🌱 I’m on a quest to master AWS—sometimes it feels like taming a dragon, but I relish every fiery challenge. Learning new cloud tricks keeps me curious and energized.
+---
 
-I’m always up for a tech chat—ask me about Python, Django, testing strategies, Docker container magic, or Jenkins/GitHub automation. 
-😄 Pronouns: He/His.
-⚡ Fun fact: When I’m not debugging servers, you’ll find me lost in Anime, Manga, Novels, or Comics—my personal escape into epic narratives!
+## 🌱 My Journey
 
-🛠️ Core Skills
+Coming from a humble background, I began my journey as a factory worker and assistant. With the help of scholarships, mentorship, and community support, I earned my degree in Computer Science from Information Technology University, Lahore.
 
-Proficient in Python/Django/DRF, JavaScript/HTML/CSS, PostgreSQL, and AWS & Docker. Experienced with CI/CD pipelines (GitHub Actions, Jenkins, GoCD, ArgoCD), configuration management (Ansible), task scheduling (Celery/Redis), observability (New Relic, Datadog, Splunk), and internationalization (Django i18n/l10n). Comfortable with Git, Linux, REST APIs, and JWT-based authentication.
+What started as curiosity became a career of purpose. From freelancing and research internships to leading open-source initiatives and enterprise deployments, I’ve grown by solving real-world problems with code.
 
-- 📫 How to reach me: [Linkedin - @meharusama](https://www.linkedin.com/in/meharusama/) 
+---
+
+## 🚀 What I Do
+
+- **Backend Engineering**: I design scalable APIs using Python, Django, and Django REST Framework.
+- **Cloud and DevOps**: I work extensively with AWS services (ECS, Lambda, RDS, CloudWatch, S3), CI/CD automation, Docker, and Kubernetes.
+- **Open edX Leadership**: I am a recognized core contributor and community leader in the Open edX ecosystem, regularly involved in strategic upgrades, migration efforts, and process standardization.
+
+---
+
+## 🛠️ Technical & Soft Skills
+
+- **Languages & Frameworks**: Python, Django, Django REST Framework, Pandas, NumPy, React.js
+- **Cloud & DevOps**: AWS (ECS, Lambda, RDS, CloudWatch, S3, IAM, Secrets Manager), Docker, GitHub Actions, Kubernetes, ArgoCD, Jenkins, GoCD, Ansible
+- **Soft Skills**: Technical documentation, mentorship, cross-team collaboration, public speaking, project leadership, community engagement
+
+---
+Thanks for reading. I’m always open to connect, collaborate, or share ideas. Feel free to reach out to me on my [portfolio](https://usamasadiq.us) page
