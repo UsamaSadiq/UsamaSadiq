@@ -1,32 +1,30 @@
-Hi, 
+Open-source maintainer. [Open edX](https://openedx.org) core contributor since 2019;
+I keep Python and Django ecosystems upgraded at scale and measure whether they stay healthy.
 
-I'm [**Usama Sadiq**](https://usamasadiq.us), Principal Software Engineer (@[arbisoft](https://arbisoft.com)), Open edX Core Contributor (@[openedx](https://openedx.com)), and hands-on Python/Django + DevOps specialist with over 6 years of experience in building and scaling modern web infrastructure.
+Projects I maintain or co-maintain:
 
-I bring a unique combination of backend engineering expertise, cloud-native DevOps practices, and open-source leadership to every initiative I work on.
+| Project | Python versions | Release | Released | Last commit | Monthly downloads |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [OSSvitals](https://github.com/UsamaSadiq/OSSvitals) | | | | [![GitHub last commit](https://img.shields.io/github/last-commit/UsamaSadiq/OSSvitals?style=flat-square&label=)](https://github.com/UsamaSadiq/OSSvitals/commits) | [live](https://ossvitals.org) |
+| [django-config-models](https://github.com/openedx/django-config-models) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/django-config-models.svg?style=flat-square&label=)](https://pypi.org/project/django-config-models/) | [![PyPI version](https://img.shields.io/pypi/v/django-config-models?style=flat-square&label=)](https://pypi.org/project/django-config-models) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/django-config-models?style=flat-square&label=)](https://github.com/openedx/django-config-models/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/django-config-models?style=flat-square&label=)](https://github.com/openedx/django-config-models/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/django-config-models?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/django-config-models) |
+| [django-user-tasks](https://github.com/openedx/django-user-tasks) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/django-user-tasks.svg?style=flat-square&label=)](https://pypi.org/project/django-user-tasks/) | [![PyPI version](https://img.shields.io/pypi/v/django-user-tasks?style=flat-square&label=)](https://pypi.org/project/django-user-tasks) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/django-user-tasks?style=flat-square&label=)](https://github.com/openedx/django-user-tasks/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/django-user-tasks?style=flat-square&label=)](https://github.com/openedx/django-user-tasks/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/django-user-tasks?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/django-user-tasks) |
+| [edx-rest-api-client](https://github.com/openedx/edx-rest-api-client) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/edx-rest-api-client.svg?style=flat-square&label=)](https://pypi.org/project/edx-rest-api-client/) | [![PyPI version](https://img.shields.io/pypi/v/edx-rest-api-client?style=flat-square&label=)](https://pypi.org/project/edx-rest-api-client) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/edx-rest-api-client?style=flat-square&label=)](https://github.com/openedx/edx-rest-api-client/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/edx-rest-api-client?style=flat-square&label=)](https://github.com/openedx/edx-rest-api-client/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/edx-rest-api-client?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/edx-rest-api-client) |
+| [pytest-repo-health](https://github.com/openedx/pytest-repo-health) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/pytest-repo-health.svg?style=flat-square&label=)](https://pypi.org/project/pytest-repo-health/) | [![PyPI version](https://img.shields.io/pypi/v/pytest-repo-health?style=flat-square&label=)](https://pypi.org/project/pytest-repo-health) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/pytest-repo-health?style=flat-square&label=)](https://github.com/openedx/pytest-repo-health/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/pytest-repo-health?style=flat-square&label=)](https://github.com/openedx/pytest-repo-health/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/pytest-repo-health?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/pytest-repo-health) |
+| [edx-repo-health](https://github.com/openedx/edx-repo-health) | | | | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/edx-repo-health?style=flat-square&label=)](https://github.com/openedx/edx-repo-health/commits) | |
 
----
+Ecosystem work:
 
-## 🌱 My Journey
+* Python 3.8 → 3.12 and Django 3.2 → 4.2 → 5.2 upgrades across 150+ Open edX repositories, with reusable codemods
+* Travis / Jenkins / CircleCI → GitHub Actions migrations, self-hosted autoscaling runners on EKS
+* Kafka event-bus external grading for Open edX (Axim-funded, shipped in the Ulmo release)
+* 678 merged PRs across 95 `openedx` repositories, 4,400+ PRs reviewed
 
-Coming from a humble background, I began my journey as a factory worker and assistant. With the help of scholarships, mentorship, and community support, I earned my degree in Computer Science from Information Technology University, Lahore.
+Some sites:
 
-What started as curiosity became a career of purpose. From freelancing and research internships to leading open-source initiatives and enterprise deployments, I’ve grown by solving real-world problems with code.
+* [OSSvitals](https://ossvitals.org): repository health, graded daily, for [Open edX](https://openedx.ossvitals.org) and [Moneta](https://moneta.ossvitals.org); also served over MCP at `mcp.ossvitals.org`
+* [usamasadiq.us](https://usamasadiq.us): blog and talks
 
----
+Talks:
 
-## 🚀 What I Do
-
-- **Backend Engineering**: I design scalable APIs using Python, Django, and Django REST Framework.
-- **Cloud and DevOps**: I work extensively with AWS services (ECS, Lambda, RDS, CloudWatch, S3), CI/CD automation, Docker, and Kubernetes.
-- **Open edX Leadership**: I am a recognized core contributor and community leader in the Open edX ecosystem, regularly involved in strategic upgrades, migration efforts, and process standardization.
-
----
-
-## 🛠️ Technical & Soft Skills
-
-- **Languages & Frameworks**: Python, Django, Django REST Framework, Pandas, NumPy, React.js
-- **Cloud & DevOps**: AWS (ECS, Lambda, RDS, CloudWatch, S3, IAM, Secrets Manager), Docker, GitHub Actions, Kubernetes, ArgoCD, Jenkins, GoCD, Ansible
-- **Soft Skills**: Technical documentation, mentorship, cross-team collaboration, public speaking, project leadership, community engagement
-
----
-Thanks for reading. I’m always open to connect, collaborate, or share ideas. Feel free to reach out to me on my [portfolio](https://usamasadiq.us) page
+* [Elevating Open edX Development: The Repo Health Dashboard](https://www.youtube.com/watch?v=kbt5n8Erv-s), Open edX Conference 2024
+* OSSvitals Toolkit, AI Tinkerers Lahore, October 2026
