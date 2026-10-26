@@ -19,7 +19,7 @@ Ecosystem work:
 * Kafka event-bus external grading for Open edX (Axim-funded, shipped in the Ulmo release)
 * 678 merged PRs across 95 `openedx` repositories, 4,400+ PRs reviewed
 
-Upstream, outside Open edX:
+Upstream, outside Open edX ([live board](https://github.com/users/UsamaSadiq/projects/1) of issues and PRs, including the open ones):
 
 * [tox](https://github.com/tox-dev/tox/pull/1682) and [virtualenv](https://github.com/pypa/virtualenv/pull/1953): `importlib-metadata` constraints (2020)
 * [algoliasearch-django](https://github.com/algolia/algoliasearch-django/pull/316) and [django-cache-memoize](https://github.com/peterbe/django-cache-memoize/pull/51): Django 3.2 test matrices (2021)
