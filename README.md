@@ -19,6 +19,14 @@ Ecosystem work:
 * Kafka event-bus external grading for Open edX (Axim-funded, shipped in the Ulmo release)
 * 678 merged PRs across 95 `openedx` repositories, 4,400+ PRs reviewed
 
+Upstream, outside Open edX:
+
+* [tox](https://github.com/tox-dev/tox/pull/1682) and [virtualenv](https://github.com/pypa/virtualenv/pull/1953): `importlib-metadata` constraints (2020)
+* [algoliasearch-django](https://github.com/algolia/algoliasearch-django/pull/316) and [django-cache-memoize](https://github.com/peterbe/django-cache-memoize/pull/51): Django 3.2 test matrices (2021)
+* [swagger2rst](https://github.com/Arello-Mobile/swagger2rst/pull/11): PyYAML `FullLoader` fix (2021)
+* [python-cloudflare](https://github.com/cloudflare/python-cloudflare/pull/156): drop the `future` dependency (2023)
+* [Penpot](https://github.com/penpot/penpot/issues/12622): backend database pool default regression, reported (2026)
+
 Some sites:
 
 * [OSSvitals](https://ossvitals.org): repository health, graded daily, for [Open edX](https://openedx.ossvitals.org) and [Moneta](https://moneta.ossvitals.org); also served over MCP at `mcp.ossvitals.org`
