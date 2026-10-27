@@ -18,6 +18,7 @@ Ecosystem work:
 * Travis / Jenkins / CircleCI → GitHub Actions migrations, self-hosted autoscaling runners on EKS
 * Kafka event-bus external grading for Open edX (Axim-funded, shipped in the Ulmo release)
 * 678 merged PRs across 95 `openedx` repositories, 4,400+ PRs reviewed
+* eMudhra CA key-compromise response (Oct 2026): drove the certifi / uv / pip upgrade across every backend Open edX repository, 118 PRs in 82 repos, with security releases ready within 48 hours of disclosure
 
 Upstream, outside Open edX ([live board](https://github.com/users/UsamaSadiq/projects/1) of issues and PRs, including the open ones):
 
