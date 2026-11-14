@@ -1,11 +1,26 @@
 Open-source maintainer. [Open edX](https://openedx.org) core contributor since 2019;
 I keep Python and Django ecosystems upgraded at scale and measure whether they stay healthy.
 
-Projects I maintain or co-maintain:
+### [OSSvitals](https://ossvitals.org)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/UsamaSadiq/OSSvitals?style=flat-square)](https://github.com/UsamaSadiq/OSSvitals/commits)
+[![License](https://img.shields.io/github/license/UsamaSadiq/OSSvitals?style=flat-square)](https://github.com/UsamaSadiq/OSSvitals/blob/main/LICENSE)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fossvitals.org&style=flat-square&label=ossvitals.org)](https://ossvitals.org)
+
+My main project. Daily health dashboards for open-source organizations, built from public data
+on a published method; the successor to the Open edX Repo Health Dashboard.
+
+* [Open edX](https://openedx.ossvitals.org): every repository graded daily on maintenance health
+* [Moneta](https://moneta.ossvitals.org): how far each fork has drifted from its upstream, with releases and security advisories
+* Read-only MCP endpoint at `mcp.ossvitals.org`, so AI agents can query the same data
+* Proposed by Axim as Open edX's official maintenance-tracking tool, replacing Backstage ([DEPR](https://github.com/openedx/public-engineering/issues/576))
+
+Code: [UsamaSadiq/OSSvitals](https://github.com/UsamaSadiq/OSSvitals)
+
+### Projects I maintain or co-maintain
 
 | Project | Python versions | Release | Released | Last commit | Monthly downloads |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [OSSvitals](https://github.com/UsamaSadiq/OSSvitals) | | | | [![GitHub last commit](https://img.shields.io/github/last-commit/UsamaSadiq/OSSvitals?style=flat-square&label=)](https://github.com/UsamaSadiq/OSSvitals/commits) | [live](https://ossvitals.org) |
 | [django-config-models](https://github.com/openedx/django-config-models) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/django-config-models.svg?style=flat-square&label=)](https://pypi.org/project/django-config-models/) | [![PyPI version](https://img.shields.io/pypi/v/django-config-models?style=flat-square&label=)](https://pypi.org/project/django-config-models) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/django-config-models?style=flat-square&label=)](https://github.com/openedx/django-config-models/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/django-config-models?style=flat-square&label=)](https://github.com/openedx/django-config-models/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/django-config-models?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/django-config-models) |
 | [django-user-tasks](https://github.com/openedx/django-user-tasks) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/django-user-tasks.svg?style=flat-square&label=)](https://pypi.org/project/django-user-tasks/) | [![PyPI version](https://img.shields.io/pypi/v/django-user-tasks?style=flat-square&label=)](https://pypi.org/project/django-user-tasks) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/django-user-tasks?style=flat-square&label=)](https://github.com/openedx/django-user-tasks/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/django-user-tasks?style=flat-square&label=)](https://github.com/openedx/django-user-tasks/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/django-user-tasks?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/django-user-tasks) |
 | [edx-rest-api-client](https://github.com/openedx/edx-rest-api-client) | [![Supported Python versions](https://img.shields.io/pypi/pyversions/edx-rest-api-client.svg?style=flat-square&label=)](https://pypi.org/project/edx-rest-api-client/) | [![PyPI version](https://img.shields.io/pypi/v/edx-rest-api-client?style=flat-square&label=)](https://pypi.org/project/edx-rest-api-client) | [![GitHub release date](https://img.shields.io/github/release-date/openedx/edx-rest-api-client?style=flat-square&label=)](https://github.com/openedx/edx-rest-api-client/releases) | [![GitHub last commit](https://img.shields.io/github/last-commit/openedx/edx-rest-api-client?style=flat-square&label=)](https://github.com/openedx/edx-rest-api-client/commits) | [![PyPI downloads](https://static.pepy.tech/personalized-badge/edx-rest-api-client?period=monthly&units=ABBREVIATION&right_color=GREEN&left_text=%E2%A4%93)](https://pepy.tech/projects/edx-rest-api-client) |
@@ -28,12 +43,9 @@ Upstream, outside Open edX ([live board](https://github.com/users/UsamaSadiq/pro
 * [python-cloudflare](https://github.com/cloudflare/python-cloudflare/pull/156): drop the `future` dependency (2023)
 * [Penpot](https://github.com/penpot/penpot/pull/13052): fix the backend database pool `min-size` regression and document the pool settings (2026)
 
-Some sites:
-
-* [OSSvitals](https://ossvitals.org): repository health, graded daily, for [Open edX](https://openedx.ossvitals.org) and [Moneta](https://moneta.ossvitals.org); also served over MCP at `mcp.ossvitals.org`
-* [usamasadiq.us](https://usamasadiq.us): blog and talks
+Blog and talks: [usamasadiq.us](https://usamasadiq.us)
 
 Talks:
 
 * [Elevating Open edX Development: The Repo Health Dashboard](https://www.youtube.com/watch?v=kbt5n8Erv-s), Open edX Conference 2024
-* OSSvitals Toolkit, AI Tinkerers Lahore, October 2026
+* [Observe, Connect, Act: an agent loop for open source maintenance](https://lahore.aitinkerers.org/connect/mu_EvYzH0aDV2c/presenters), AI Tinkerers Lahore, October 2026
