@@ -32,7 +32,7 @@ Ecosystem work:
 * Python 3.8 → 3.12 and Django 3.2 → 4.2 → 5.2 upgrades across 150+ Open edX repositories, with reusable codemods
 * Travis / Jenkins / CircleCI → GitHub Actions migrations, self-hosted autoscaling runners on EKS
 * Kafka event-bus external grading for Open edX (Axim-funded, shipped in the Ulmo release)
-* 678 merged PRs across 95 `openedx` repositories, 4,400+ PRs reviewed
+* 800+ merged PRs across 140+ Open edX repositories (including retired ones), 5,600+ PRs reviewed
 * eMudhra CA key-compromise response (Oct 2026): drove the certifi / uv / pip upgrade across every backend Open edX repository, 118 PRs in 82 repos, with security releases ready within 48 hours of disclosure
 
 Upstream, outside Open edX ([live board](https://github.com/users/UsamaSadiq/projects/1) of issues and PRs, including the open ones):
